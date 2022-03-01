@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "piskvorky.h"
+
 int main() {
     printf("Enter the size of field: ");
     int size;
